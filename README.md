@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dawidryskala
+- 👋 Hi, I’m Dawid 
 - 👀 I’m interested in creating modern websites 
 - 🌱 I’m currently learning React.js, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on modern website project using React
