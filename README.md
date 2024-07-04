@@ -14,4 +14,4 @@
 - **Employee Database Management:** Managed and reported on a comprehensive employee database using Power BI.
 
 ### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/dawidryskala/)
+- <a href="https://www.linkedin.com/in/dawidryskala/" target="_blank">LinkedIn</a>
