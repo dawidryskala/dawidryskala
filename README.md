@@ -1,17 +1,31 @@
-### Hi, I'm Dawid
+# Hi, I'm Dawid 👋
 
-👀 I’m currently focused on Data Analysis and Business Intelligence.  
-🌱 I’ve transitioned from Frontend Development to Data Analysis, and I hold a Microsoft Certified: Power BI Data Analyst Associate (PL-300) certification.  
-💼 I’m currently working as an intern in Global Business Services IT Systems at ABB, where I've gained hands-on experience in data reporting, workflow automation, and more.  
-🔍 I am also interested in exploring Data Engineering.  
-💞️ I’m looking to collaborate on projects related to Data Analysis, Business Intelligence, and Data Engineering.  
-📫 How to reach me: [dawidryskala3@gmail.com](mailto:dawidryskala3@gmail.com)
+**Business Intelligence Developer** with expertise in **Power BI, Microsoft Fabric, and SQL Server**.  
+I design and deliver impactful BI solutions that go beyond dashboards — building the entire flow from **data integration and pipelines** to clean, scalable models and interactive reporting.  
 
-### Recent Highlights
-- **Automated Email Notifications and Interactive Dashboards:** Created automated email notifications integrated with Power BI, Power Automate, and Power Apps for contract management.
-- **Azure Data Reporting:** Developed a reporting system visualizing sprint progress and statuses.
-- **SharePoint File Optimization:** Designed a search tool to manage redundant files, leading to cost savings.
-- **Employee Database Management:** Managed and reported on a comprehensive employee database using Power BI.
+💡 My work combines **classic BI development** (reporting, KPIs, DAX modeling, row-level security) with **data engineering practices** (ELT pipelines, API integrations, Fabric notebooks).  
+This ensures that business teams don’t just see numbers — they get **trusted, real-time insights** that drive action.  
 
-### Connect with me
-- <a href="https://www.linkedin.com/in/dawidryskala/" target="_blank">LinkedIn</a>
+---
+
+## 🚀 Current Role at DONE! Deliveries
+- 📊 Built a **company-wide Sales report** with advanced KPIs, RLS, and modern visual standards.  
+- 📈 Developed an **enterprise Marketing report**, integrating APIs and transforming data with Fabric (Bronze → Silver → Gold).  
+- 🔧 Designed and optimized **pipelines and Capacity usage** in Fabric, reducing costs and improving efficiency.  
+- 📡 Delivered **real-time logistics dashboards**, streamed on company-wide displays.  
+- 🔐 Implemented **Dynamic Row-Level Security (RLS)** in Power BI with SQL Server, including advanced DAX cases for complex scenarios.  
+
+---
+
+## 🎯 Focus Areas
+- Business Intelligence Development  
+- Microsoft Fabric & Data Pipelines  
+- API Integrations & Automation  
+- Advanced Power BI (DAX, RLS, performance tuning)  
+- Data Engineering for scalable reporting  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dawidryskala/)  
+- 📧 [dawidryskala3@gmail.com](mailto:dawidryskala3@gmail.com)
