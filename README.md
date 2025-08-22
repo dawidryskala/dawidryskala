@@ -1,4 +1,4 @@
-# Hi, I'm Dawid 👋
+# Hi, I'm Dawid 👋 Business Intelligence Developer
 
 **Business Intelligence Developer** with expertise in **Power BI, Microsoft Fabric, and SQL Server**.  
 I design and deliver impactful BI solutions that go beyond dashboards — building the entire flow from **data integration and pipelines** to clean, scalable models and interactive reporting.  
