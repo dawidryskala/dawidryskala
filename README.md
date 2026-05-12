@@ -1,28 +1,43 @@
-# Hi, I'm Dawid 👋 Business Intelligence Developer
+# Hi, I'm Dawid 👋
 
-**Business Intelligence Developer** with expertise in **Power BI, Microsoft Fabric, and SQL Server**.  
-I design and deliver impactful BI solutions that go beyond dashboards — building the entire flow from **data integration and pipelines** to clean, scalable models and interactive reporting.  
+BI Engineer / Analytics Engineer focused on designing end-to-end analytical solutions using Power BI, dbt, SQL, GCP, and Microsoft Fabric.
 
-💡 My work combines **classic BI development** (reporting, KPIs, DAX modeling, row-level security) with **data engineering practices** (ELT pipelines, API integrations, Fabric notebooks).  
-This ensures that business teams don’t just see numbers — they get **trusted, real-time insights** that drive action.  
+Experienced in building scalable data transformation workflows, semantic models, ETL/ELT pipelines, and analytical reporting solutions for Finance, Controlling, and operational teams.
 
----
+My work combines business intelligence development with modern analytics engineering practices, including data modeling, API integrations, orchestration workflows, and data quality validation.
 
-## 🚀 Current Role at DONE! Deliveries
-- 📊 Built a **company-wide Sales report** with advanced KPIs, RLS, and modern visual standards.  
-- 📈 Developed an **enterprise Marketing report**, integrating APIs and transforming data with Fabric (Bronze → Silver → Gold).  
-- 🔧 Designed and optimized **pipelines and Capacity usage** in Fabric, reducing costs and improving efficiency.  
-- 📡 Delivered **real-time logistics dashboards**, streamed on company-wide displays.  
-- 🔐 Implemented **Dynamic Row-Level Security (RLS)** in Power BI with SQL Server, including advanced DAX cases for complex scenarios.  
+Currently expanding expertise in Databricks by developing personal analytics projects based on Polish Real Estate Registry data using Medallion Architecture, dbt, PySpark, SQL, and Power BI.
 
 ---
 
-## 🎯 Focus Areas
-- Business Intelligence Development  
-- Microsoft Fabric & Data Pipelines  
-- API Integrations & Automation  
-- Advanced Power BI (DAX, RLS, performance tuning)  
-- Data Engineering for scalable reporting  
+## Selected BI & Analytics Projects
+
+### Enterprise Reporting & Analytics
+- Designed and developed analytical solutions using Power BI, SQL, dbt, GCP, and Microsoft Fabric.
+- Built scalable ETL/ELT workflows and Medallion Architecture data layers (Bronze → Silver → Gold).
+- Developed semantic models, advanced DAX calculations, and Row-Level Security (RLS) solutions.
+- Integrated APIs and operational systems to automate reporting and analytical workflows.
+- Delivered real-time operational dashboards and KPI monitoring solutions.
+
+### Kraków Real Estate Analytics Platform
+- Built an end-to-end analytics platform using Databricks, dbt, PySpark, SQL, and Power BI.
+- Processed and enriched historical real estate transaction data from the Polish Real Estate Registry.
+- Implemented geospatial transformations and spatial joins using GeoJSON district polygons.
+- Developed interactive dashboards for district-, street-, and building-level property market analysis.
+- Currently extending the platform with property flip detection and macroeconomic analytics.
+
+---
+
+## Focus Areas
+- Business Intelligence Engineering
+- Analytics Engineering
+- Data Modeling
+- ETL / ELT Pipelines
+- Power BI & DAX
+- dbt & Medallion Architecture
+- Microsoft Fabric
+- Databricks & PySpark
+- API Integrations & Automation
 
 ---
 
