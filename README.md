@@ -19,7 +19,7 @@ Currently expanding expertise in Databricks by developing personal analytics pro
 - Integrated APIs and operational systems to automate reporting and analytical workflows.
 - Delivered real-time operational dashboards and KPI monitoring solutions.
 
-### Kraków Real Estate Analytics Platform [(link)](https://app.powerbi.com/view?r=eyJrIjoiMDcxNjE1ZWUtNjcyMy00YWNkLWExZjMtNTM1MWUzMWQ4YzgyIiwidCI6IjI1NTY1NGZiLWFmYzctNDNjOC04ZDZkLTRlMzdmYzQ2YzQyOSJ9)
+### Kraków Real Estate Analytics Platform [(link to the project)](https://app.powerbi.com/view?r=eyJrIjoiMDcxNjE1ZWUtNjcyMy00YWNkLWExZjMtNTM1MWUzMWQ4YzgyIiwidCI6IjI1NTY1NGZiLWFmYzctNDNjOC04ZDZkLTRlMzdmYzQ2YzQyOSJ9)
 - Built an end-to-end analytics platform using Databricks, dbt, PySpark, SQL, and Power BI.
 - Processed and enriched historical real estate transaction data from the Polish Real Estate Registry.
 - Implemented geospatial transformations and spatial joins using GeoJSON district polygons.
