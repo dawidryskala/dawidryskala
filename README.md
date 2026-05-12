@@ -10,21 +10,26 @@ Currently expanding expertise in Databricks by developing personal analytics pro
 
 ---
 
-## Selected BI & Analytics Projects
+## Professional Focus
 
 ### Enterprise Reporting & Analytics
-- Designed and developed analytical solutions using Power BI, SQL, dbt, GCP, and Microsoft Fabric.
-- Built scalable ETL/ELT workflows and Medallion Architecture data layers (Bronze → Silver → Gold).
-- Developed semantic models, advanced DAX calculations, and Row-Level Security (RLS) solutions.
-- Integrated APIs and operational systems to automate reporting and analytical workflows.
-- Delivered real-time operational dashboards and KPI monitoring solutions.
+- Designing and developing analytical solutions using Power BI, SQL, dbt, GCP, and Microsoft Fabric.
+- Building scalable ETL/ELT workflows and Medallion Architecture data layers (Bronze → Silver → Gold).
+- Developing semantic models, advanced DAX calculations, and Row-Level Security (RLS) solutions.
+- Integrating APIs and operational systems to automate reporting and analytical workflows.
+- Delivering real-time operational dashboards and KPI monitoring solutions.
 
-### Kraków Real Estate Analytics Platform 
+---
+
+## Featured Personal Project
+
+### Kraków Real Estate Analytics Platform
 🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDcxNjE1ZWUtNjcyMy00YWNkLWExZjMtNTM1MWUzMWQ4YzgyIiwidCI6IjI1NTY1NGZiLWFmYzctNDNjOC04ZDZkLTRlMzdmYzQ2YzQyOSJ9)
+
 - Built an end-to-end analytics platform using Databricks, dbt, PySpark, SQL, and Power BI.
 - Processed and enriched historical real estate transaction data from the Polish Real Estate Registry.
 - Implemented geospatial transformations and spatial joins using GeoJSON district polygons.
-- Developed interactive dashboards for district-, street-, and building-level property market analysis.
+- Developed interactive dashboards for district, street, and building-level property market analysis.
 - Currently extending the platform with property flip detection and salary-to-property-price analysis based on GUS data.
 
 ---
