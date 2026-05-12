@@ -2,7 +2,7 @@
 
 BI Engineer / Analytics Engineer focused on designing end-to-end analytical solutions using Power BI, dbt, SQL, GCP, and Microsoft Fabric.
 
-Experienced in building scalable data transformation workflows, semantic models, ETL/ELT pipelines, and analytical reporting solutions for Finance, Controlling, and operational teams.
+Experienced in designing scalable transformation workflows, semantic models, ETL/ELT pipelines, and analytical reporting solutions for Finance, Controlling, and operational teams.
 
 My work combines business intelligence development with modern analytics engineering practices, including data modeling, API integrations, orchestration workflows, and data quality validation.
 
@@ -25,13 +25,12 @@ Currently expanding expertise in Databricks by developing personal analytics pro
 - Processed and enriched historical real estate transaction data from the Polish Real Estate Registry.
 - Implemented geospatial transformations and spatial joins using GeoJSON district polygons.
 - Developed interactive dashboards for district-, street-, and building-level property market analysis.
-- Currently extending the platform with property flip detection and macroeconomic analytics.
+- Currently extending the platform with property flip detection and salary-to-property-price analysis based on GUS data.
 
 ---
 
 ## Focus Areas
-- Business Intelligence Engineering
-- Analytics Engineering
+- Business Intelligence & Analytics Engineering
 - Data Modeling
 - ETL / ELT Pipelines
 - Power BI & DAX
